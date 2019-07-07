@@ -1,0 +1,13 @@
+BABA:alibaba
+GOOGL:alphabet,google
+AMZN:amazon
+AMD:amd
+AAPL:apple
+GBTC:cryptocurrency,bitcoin,ethereum,ripple
+CMG:chipotle
+FB:facebook
+MSFT:microsoft
+NFLX:netflix
+NVDA:nvidia
+TSLA:tesla
+WMT:walmart
